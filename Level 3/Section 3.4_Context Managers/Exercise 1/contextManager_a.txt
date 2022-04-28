@@ -1,0 +1,3 @@
+Python is even better with context managers!
+Isn‘t it?
+Yes, I think it is!
