@@ -1,0 +1,7 @@
+This is a new file.
+I am writing few lines into it.
+This is exercise 4.
+I am going to close it.
+Line 5
+Line 6
+Line 7
